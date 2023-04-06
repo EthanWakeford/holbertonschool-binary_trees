@@ -5,7 +5,7 @@
  *
  * @array: array to build from
  * @size: size of array
- * Returb: pointer to root of new tree, or NULL on failure
+ * Return: pointer to root of new tree, or NULL on failure
 */
 
 bst_t *array_to_bst(int *array, size_t size)
